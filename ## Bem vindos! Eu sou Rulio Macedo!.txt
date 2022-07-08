@@ -26,6 +26,5 @@ _Sou estudante de engenharia de software, trabalho atualmente como suporte em um
   <a href = "mailto:ruliomacedo91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rulio-macedo-30890419b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](.github/fluxos de trabalho/cobrinha.yml)
- 
+  
 </div>
