@@ -11,12 +11,13 @@
         Console.WriteLine("Digite um numero: ");
         double n1 = double.Parse(Console.ReadLine());
 
+        Console.WriteLine("Informe a operação(*, -, + ou /): ");
+        string operação = Console.ReadLine();
+        
         Console.WriteLine("Informe um segundo numero: ");
         double n2 = double.Parse(Console.ReadLine());
 
-        Console.WriteLine("Informe a operação(*, -, + ou /): ");
-        string operação = Console.ReadLine();
-
+        
         double resultado = 0;
 
         switch (operação)
@@ -47,6 +48,6 @@
 
         }
 
-        
+
     }
 }
