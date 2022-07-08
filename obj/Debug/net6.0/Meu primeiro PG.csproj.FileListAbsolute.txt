@@ -1,0 +1,15 @@
+D:\Meu primeiro PG\bin\Debug\net6.0\Meu primeiro PG.exe
+D:\Meu primeiro PG\bin\Debug\net6.0\Meu primeiro PG.deps.json
+D:\Meu primeiro PG\bin\Debug\net6.0\Meu primeiro PG.runtimeconfig.json
+D:\Meu primeiro PG\bin\Debug\net6.0\Meu primeiro PG.dll
+D:\Meu primeiro PG\bin\Debug\net6.0\Meu primeiro PG.pdb
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.csproj.AssemblyReference.cache
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.AssemblyInfoInputs.cache
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.AssemblyInfo.cs
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.csproj.CoreCompileInputs.cache
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.dll
+D:\Meu primeiro PG\obj\Debug\net6.0\refint\Meu primeiro PG.dll
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.pdb
+D:\Meu primeiro PG\obj\Debug\net6.0\Meu primeiro PG.genruntimeconfig.cache
+D:\Meu primeiro PG\obj\Debug\net6.0\ref\Meu primeiro PG.dll
